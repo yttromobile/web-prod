@@ -1,0 +1,161 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimal-ui">
+</head>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<style type='text/css'>
+#in {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+}
+
+#marker {
+    background-color:red;
+    height: 100%;
+    border: 10px solid blue;
+    overflow: hidden;
+    /*z-index:  -1000;*/
+    /*left: -10000px;*/
+    width: 100px;
+
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+#marker > div {
+    height: 200%;
+    pointer-events: none;
+    position: relative;
+}
+
+#marker > div:after {
+    content: 'end';
+    position: absolute;
+    bottom: 0;
+    right:0;
+}
+
+</style>
+
+<body>
+<div id='content'>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+<div>line</div>
+
+</div>
+<div id='marker'>
+<input id='in'></input>
+
+<div>marker</div></div>
+</body>
+<script>
+// $(document).on('scroll', function() { $('#in').offset({top: document.body.scrollTop}) } )
+
+// document.body.scrollTop  = 10000000
+// document.body.offsetHeight - document.body.scrollTop
+// $('#marker')[0].scrollHeight
+$('#in').on('focus', function() {
+    console.log('focus');
+    var marker = $('body')[0];
+    var scrollHeight = marker.scrollHeight;
+    marker.scrollTop = scrollHeight;
+    window.setTimeout(function() {
+        var actualScrollTop = marker.scrollTop;
+        console.log(scrollHeight, actualScrollTop);
+        var fudge = 0;
+        if (window.innerHeight > window.innerWidth) {
+            // portrait; add fudge for the bottom bar
+            fudge = 46;
+        }
+        console.log('My guess is', scrollHeight - actualScrollTop + fudge);
+    }, 50);
+
+
+
+
+    // var offsetHeight = $('#marker')[0].offsetHeight;
+    // // $('#marker').offset({ top: offsetHeight });
+    // $('#marker')[0].scrollTop = offsetHeight;
+    // var st = $('#marker')[0].scrollTop;
+    // console.log('visible size is ', offsetHeight - st);
+});
+$(document).on('scroll', function() {
+    // console.log(document.body.scrollTop);
+    $('#in').offset({top: document.body.scrollTop})
+} )
+</script>
+</html>
