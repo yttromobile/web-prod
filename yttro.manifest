@@ -8,6 +8,7 @@ assets/app-icons/58.png
 assets/app-icons/80.png
 assets/app-icons/87.png
 assets/appIconMask.png
+assets/clear-search@2x.png
 assets/collapse-button-on-bar@2x.png
 assets/download-button-on-bar@2x.png
 assets/duration@2x.png
@@ -21,8 +22,8 @@ assets/search@2x.png
 assets/spinner@2x.gif
 assets/stars@2x.png
 assets/views@2x.png
-build/yttro-md5-bcc5ca612a60ce3c856f04ef3d2659a3.css
-build/yttro.min-md5-bd8a77eb39a3ef260725dc72beb94fc6.js
+build/yttro-md5-3091d53e3360edfa991c3964df69009f.css
+build/yttro.min-md5-3135b1ed3159f13c00449c143c4a427b.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -252,5 +253,5 @@ map/AGA-v4/AGA_4_3x_0_0.jpg
 map/AGA-v4/AGA_4_metadata.json
 NETWORK:
 *
-#75e3eefe8dc916397449b714346382f2
+#8c5e56aec010453d9fa0ed3678e13245
 
