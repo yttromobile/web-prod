@@ -13,6 +13,8 @@ assets/collapse-button-on-bar@2x.png
 assets/download-button-on-bar@2x.png
 assets/duration@2x.png
 assets/everyplay@2x.png
+assets/google-play-button.png
+assets/interstitial.jpg
 assets/launch-image-640x960.png
 assets/logo-on-bar@2x.png
 assets/play@2x.png
@@ -22,8 +24,8 @@ assets/search@2x.png
 assets/spinner@2x.gif
 assets/stars@2x.png
 assets/views@2x.png
-build/yttro-md5-5f192158ffff162ee9e620abf103f08f.css
-build/yttro.min-md5-52b42e778a75e251a87b33dbc72893df.js
+build/yttro-md5-2d3302206c09adcc8cc8e161bf2efdc7.css
+build/yttro.min-md5-f50ac3915d32219d61aa380f5d42ac76.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -253,5 +255,5 @@ map/AGA-v4/AGA_4_3x_0_0.jpg
 map/AGA-v4/AGA_4_metadata.json
 NETWORK:
 *
-#5e8e5789b19b3850cde96bbcc3475e4a
+#a5fbc146db733077ba60bf086095b001
 
