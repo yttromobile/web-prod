@@ -27,8 +27,8 @@ assets/tutorial-pan.png
 assets/tutorial-pinch.png
 assets/tutorial-tooltip.png
 assets/views@2x.png
-build/yttro-md5-2d3302206c09adcc8cc8e161bf2efdc7.css
-build/yttro.min-md5-a70a9a6053901f75e0b70ca445c94e86.js
+build/yttro-md5-47c1932b0c231f47be828aac5d5a4718.css
+build/yttro.min-md5-807a5b1a8f11c3fb01aeb81513ee98d2.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -258,5 +258,5 @@ map/AGA-v4/AGA_4_3x_0_0.jpg
 map/AGA-v4/AGA_4_metadata.json
 NETWORK:
 *
-#e18d5656b56f6cfb61a82d82eba77a20
+#ac6665fd6a88f1b182ee1014e22a6725
 
