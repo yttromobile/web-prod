@@ -7,13 +7,12 @@ assets/app-icons/180.png
 assets/app-icons/58.png
 assets/app-icons/80.png
 assets/app-icons/87.png
-assets/appIconMask-2.png
+assets/appIconMask.png
 assets/clear-search@2x.png
 assets/collapse-button-on-bar@2x.png
 assets/download-button-on-bar@2x.png
 assets/duration@2x.png
 assets/everyplay@2x.png
-assets/feedback.png
 assets/google-play-button.png
 assets/interstitial.jpg
 assets/launch-image-640x960.png
@@ -28,8 +27,8 @@ assets/tutorial-pan.png
 assets/tutorial-pinch.png
 assets/tutorial-tooltip.png
 assets/views@2x.png
-build/yttro-md5-a9906156224e00f1fe49c26fac24b464.css
-build/yttro.min-md5-a3c908595bdf2f284c50ae74b1dfcd2e.js
+build/yttro-md5-9f6146a5c3f3ccaaa7d6b07014be47e1.css
+build/yttro.min-md5-bfa9493e5dd8e9effac165a9686283e5.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -283,6 +282,6 @@ map/AGA-v4/AGA_4_3x_4_4.jpg
 map/AGA-v4/AGA_4_trim.json
 NETWORK:
 *
-#src:81589c1e140bdedf6b9803de95681a5dc89e0760
-#412ef2cb69db6d8f285c29e898e43d04
+#src:75fd43d21c9cca5782403ec91a055200a2d97268
+#8110cccf3fb62bf53e9eb71c0d044d65
 
