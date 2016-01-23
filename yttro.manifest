@@ -31,7 +31,7 @@ assets/spinner@2x.gif
 assets/tutorial-pan-1.png
 assets/tutorial-pinch-1.png
 build/yttro-md5-3357f3bf90d92738e3a6ad7cd7f505cd.css
-build/yttro.min-md5-7ec8e3322edabc3e964f87a38aa0322d.js
+build/yttro.min-md5-4747d0108a2c4b75990b23348b899a2f.js
 map/ALI-v4/ALI_4_1x_0_0.jpg
 map/ALI-v4/ALI_4_1x_0_1.jpg
 map/ALI-v4/ALI_4_1x_0_2.jpg
@@ -125,6 +125,6 @@ map/ALI-v4/ALI_4_4x_2_2.jpg
 map/ALI-v4/ALI_4_trim.json
 NETWORK:
 *
-#src:aaccf2cda476f9eed0066e8f1dd99443d9bed1d4
-#192aa5f4d9e06a1f7fa7cc5207e6d603
+#src:cf62036b4e02484129cfd74c663b37f72a5af290
+#2f685b1a5287754a5bc9a077f11bedad
 
