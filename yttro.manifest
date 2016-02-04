@@ -28,10 +28,11 @@ assets/spinner@2x.gif
 assets/stars@2x.png
 assets/tutorial-pan-1.png
 assets/tutorial-pinch-1.png
+assets/tutorial-tap.png
 assets/tutorial-tooltip-1.png
 assets/views@2x.png
-build/yttro-md5-73e667b617d28163e0aff9e55f930c37.css
-build/yttro.min-md5-a86877bf8afe5e40246f901566042132.js
+build/yttro-md5-a38d76e87fa2e21e15baecdc4bcd790c.css
+build/yttro.min-md5-bbc3665b4d8e3b9410f86a6b4b01bb2d.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -285,6 +286,6 @@ map/AGA-v4/AGA_4_3x_4_4.jpg
 map/AGA-v4/AGA_4_trim.json
 NETWORK:
 *
-#src:9d84c2f34f96da9cb024ea7c4f6ae4075cd4e2fd
-#fab987728a69c33977296e37448afbc2
+#src:09e560ac5a519382a9b3317d2cc7614a32323f10
+#73301ca26f9bede3a9770f5d8ca200a4
 
