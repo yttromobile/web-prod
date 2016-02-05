@@ -32,7 +32,7 @@ assets/tutorial-tap.png
 assets/tutorial-tooltip-1.png
 assets/views@2x.png
 build/yttro-md5-a38d76e87fa2e21e15baecdc4bcd790c.css
-build/yttro-o-md5-2babb4b1a005ee02abae561bdb9ef01d.js
+build/yttro-o-md5-859bdc3bdc3714b7562a1cc37ea77ba8.js
 map/AGA-v4/AGA_4_1x_0_0.jpg
 map/AGA-v4/AGA_4_1x_0_1.jpg
 map/AGA-v4/AGA_4_1x_0_10.jpg
@@ -286,9 +286,9 @@ map/AGA-v4/AGA_4_3x_4_4.jpg
 map/AGA-v4/AGA_4_trim.json
 FALLBACK:
 index.html index-o.html
-build/yttro-md5-7c21611cf24c396c5ca18840359166e5.js build/yttro-o-md5-2babb4b1a005ee02abae561bdb9ef01d.js
+build/yttro-md5-68b5bfeb75577e9277632f4755f0a240.js build/yttro-o-md5-859bdc3bdc3714b7562a1cc37ea77ba8.js
 NETWORK:
 *
-#src:c677a4aa46b1f256b9e58587bd63d603560f6f50
-#a9918a70f5284db40b35ec92a158a367
+#src:35b57655e8050eae9f5fdd318fb3b9a2681ffb18
+#a66172c67ba3c258979773191ca949f7
 
