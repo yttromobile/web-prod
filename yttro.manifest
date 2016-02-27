@@ -23,7 +23,6 @@ assets/qr-ali.png
 assets/qr-baidu.jpg
 assets/rating-count@2x.png
 assets/rotate-device.jpg
-assets/search@2x.png
 assets/spinner@2x.gif
 assets/stars@2x.png
 assets/tutorial-pan-1.png
@@ -31,8 +30,8 @@ assets/tutorial-pinch-1.png
 assets/tutorial-tap.png
 assets/tutorial-tooltip-1.png
 assets/views@2x.png
-build/yttro-md5-7e739b133345ddaa4587dd268cb00a4e.css
-build/yttro-o-md5-d63b24a520c6a34f572b945ae916023f.js
+build/yttro-md5-803a2bf55dd35acb79ee0999a7e8bd25.css
+build/yttro-o-md5-964cfdaefb864adf907907a7966a6dd2.js
 map/AGA-v7/AGA_7_1x_0_0.jpg
 map/AGA-v7/AGA_7_1x_0_1.jpg
 map/AGA-v7/AGA_7_1x_0_10.jpg
@@ -286,10 +285,10 @@ map/AGA-v7/AGA_7_3x_4_4.jpg
 map/AGA-v7/AGA_7_trim.json
 FALLBACK:
 index.html index-o.html
-build/yttro-md5-b66ead36004766a8bb41bbc965555ba8.js build/yttro-o-md5-d63b24a520c6a34f572b945ae916023f.js
+build/yttro-md5-1853e31c8ac51e6be596e98304eb7dea.js build/yttro-o-md5-964cfdaefb864adf907907a7966a6dd2.js
 NETWORK:
 *
-#src:37c74293b20cea068618286c7eccc2bc275936ec
-#af434970025cfea93c3ffb57a94fd7bb
+#src:dfea62a867d9969f3560b48c858c54ca2c6248b7
+#14036064174f7e35ed8e3c474bcbef77
 
 # LOCALE=en_US WORLD=AGA-v7 tools/deploy.sh
