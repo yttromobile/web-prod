@@ -32,7 +32,7 @@ assets/search@2x.png
 assets/spinner@2x.gif
 assets/tutorial-tap.png
 build/yttro-md5-a9989d5d0b7e98721a602d2e2f9ca94d.css
-build/yttro-o-md5-0594da41641b26123c68eeb97751f8c0.js
+build/yttro-o-md5-4bfe456b9ad89cd5cf4fcc7fe3007736.js
 map/ALI-v4.1/ALI_4_1x_0_0.jpg
 map/ALI-v4.1/ALI_4_1x_0_1.jpg
 map/ALI-v4.1/ALI_4_1x_0_2.jpg
@@ -126,10 +126,10 @@ map/ALI-v4.1/ALI_4_4x_2_2.jpg
 map/ALI-v4.1/ALI_4_trim.json
 FALLBACK:
 index.html index-o.html
-build/yttro-md5-31052d2d632526e59d1cdbb69f9a6eaa.js build/yttro-o-md5-0594da41641b26123c68eeb97751f8c0.js
+build/yttro-md5-f5da1061d260e242e4344236899c10ad.js build/yttro-o-md5-4bfe456b9ad89cd5cf4fcc7fe3007736.js
 NETWORK:
 *
-#src:9ad8d1b1e2f0654754fce8f9fdee428ace256c27
-#6551f0fb577dab74db84b6710331c681
+#src:a117b1a02480faec976406b28292162694817616
+#0dee636c53c3f2f8833b6fa2634fabf8
 
 # LOCALE=zh_CN_ALI WORLD=ALI-v4.1 tools/deploy.sh
